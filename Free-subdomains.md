@@ -58,3 +58,9 @@
 - godaddysites.com
 - hostingerapp.com
 - carrd.co
+
+### Freehosting provided you have a pre purchased domain of your own
+- freehosting.com (the pre-purchased domain mult not be a freenom domain , not should it be a subdomain)
+- Oracle VPS (any prepurchased domain is fine including subdomains)
+
+  
