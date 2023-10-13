@@ -1,6 +1,7 @@
 ## Flexible & almost undetectable FREE subdomains:
 
 - pages.dev => cloudflare hosting
+- workers.dev => cloudflare workers (similar to amazon lambda)
 - web.app => firebase hosting
 - appspot.com => google cloud
 
