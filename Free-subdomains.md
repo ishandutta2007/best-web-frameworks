@@ -36,6 +36,7 @@
 - freefinancetools.net
 - blogspot.com
 - wordpress.com
+- hashnode.com
 - wixsite.com => wix.com hosting
 - weebly.com
 - jimdosite.com => jimdo.com hosting
