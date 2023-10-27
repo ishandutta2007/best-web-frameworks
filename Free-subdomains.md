@@ -37,6 +37,7 @@
 - blogspot.com
 - wordpress.com
 - hashnode.com
+- substack.com
 - wixsite.com => wix.com hosting
 - weebly.com
 - jimdosite.com => jimdo.com hosting
