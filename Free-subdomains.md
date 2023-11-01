@@ -17,7 +17,6 @@
 - herokuapp.com => herokuapp hosting
 - firebaseapp.com => firebase hosting
 - azurewebsites.net => Microsoft Azure
-- 
 - awardspace.net
 - 000webhostapp.com
 - byethost.com
@@ -55,6 +54,7 @@
 - http://bucket-name.s3-website-region.amazonaws.com => AWS S3 static website hosting
 - profreehost.com
 - byet.host
+- streamlit.app
 
 ### Freetrial (ie only 7/14/30 days)
 
