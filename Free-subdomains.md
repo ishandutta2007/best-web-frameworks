@@ -10,7 +10,7 @@
 - epizy.com => infinityfree hosting
 - netlify.com => netlify hosting
 - vercel.app => vercel hosting
-
+- repl.co => replit.com
 
 ## Flexible & big FREE subdomains:
 
