@@ -11,6 +11,7 @@
 - netlify.com => netlify hosting
 - vercel.app => vercel hosting
 - repl.co => replit.com
+- glitch.me => glitch.com hosting
 
 ## Flexible & big FREE subdomains:
 
@@ -46,7 +47,6 @@
 - ucraft.net => ucraft.com hosting
 - ucraft.site => ucraft.com hosting
 - surge.sh
-- glitch.me => glitch.com hosting
 - onrender.com => render.com hosting
 - hostboxonline.com
 - quora.com => quora space
