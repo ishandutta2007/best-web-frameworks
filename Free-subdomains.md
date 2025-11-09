@@ -1,3 +1,4 @@
+
 ## Flexible & almost undetectable FREE subdomains:
 
 - pages.dev => cloudflare hosting
@@ -68,3 +69,26 @@
 - Oracle VPS (any prepurchased domain is fine including subdomains)
 
   
+
+# Grouping by USage type
+
+## For static sites and web projects
+These platforms are ideal for developers, designers, and hobbyists who want to host a website, portfolio, or documentation for free.
+- vercel.app: Vercel is a popular platform for front-end frameworks and static sites. It automatically deploys your project from a Git repository, offering a seamless development experience.
+- netlify.app: Netlify is another leading platform for Jamstack sites, providing continuous deployment from a Git repo, automatic HTTPS, and a powerful CDN for static content.
+- github.io or - github.io: GitHub Pages allows you to host a static website directly from a GitHub repository. You can create a user site (username.github.io) or project sites (projectname.github.io).
+- render.com: Render is a cloud platform for static sites and web services. It provides a free subdomain and managed TLS (SSL) for projects deployed from Git. 
+
+## For web hosting and apps
+These are typically for more traditional web hosting or for deploying web applications that require a server-side component.
+- render.app: In addition to static sites, Render also offers a free tier for web services. This allows you to host backend applications written in languages like Node.js, Python, or Ruby.
+- infinityfreeapp.com: InfinityFree offers ad-free web hosting with a free subdomain, PHP, and MySQL. It is suitable for creating small personal sites and blogs.
+- 000webhostapp.com: 000WebHost, a free web hosting service by Hostinger, provides free domain hosting, a website builder, and PHP/MySQL support.
+- awardspace.com: AwardSpace is a free hosting provider with an ad-free service, PHP, MySQL, and a 99.9% uptime guarantee for small projects. 
+
+## For website builders
+These services are designed for non-technical users who want to build and publish a website quickly using drag-and-drop tools.
+- wordpress.com: The free version of WordPress.com lets you create a blog or simple website with a wordpress.com subdomain. It includes hosting and basic themes, but you cannot remove WordPress branding.
+- wixsite.com: Wix provides a free website builder that uses an assigned wixsite.com URL. The free plan displays Wix ads and has storage limitations.
+- weebly.com: Weebly, a website builder, offers a free plan that provides a subdomain and 500MB of storage. It also includes free SSL and SEO tools. 
+
