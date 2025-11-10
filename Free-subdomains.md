@@ -70,7 +70,7 @@
 - Oracle VPS (any prepurchased domain is fine including subdomains)
 
 
-# Grouping by USage type
+# Grouping by Usage type
 
 ## For static sites and web projects
 These platforms are ideal for developers, designers, and hobbyists who want to host a website, portfolio, or documentation for free.
