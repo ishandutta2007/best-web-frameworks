@@ -68,7 +68,6 @@
 - freehosting.com (the pre-purchased domain mult not be a freenom domain , not should it be a subdomain)
 - Oracle VPS (any prepurchased domain is fine including subdomains)
 
-  
 
 # Grouping by USage type
 
@@ -76,7 +75,7 @@
 These platforms are ideal for developers, designers, and hobbyists who want to host a website, portfolio, or documentation for free.
 - vercel.app: Vercel is a popular platform for front-end frameworks and static sites. It automatically deploys your project from a Git repository, offering a seamless development experience.
 - netlify.app: Netlify is another leading platform for Jamstack sites, providing continuous deployment from a Git repo, automatic HTTPS, and a powerful CDN for static content.
-- github.io or - github.io: GitHub Pages allows you to host a static website directly from a GitHub repository. You can create a user site (username.github.io) or project sites (projectname.github.io).
+- github.io: GitHub Pages allows you to host a static website directly from a GitHub repository. You can create a user site (username.github.io) or project sites (projectname.github.io).
 - render.com: Render is a cloud platform for static sites and web services. It provides a free subdomain and managed TLS (SSL) for projects deployed from Git. 
 
 ## For web hosting and apps
