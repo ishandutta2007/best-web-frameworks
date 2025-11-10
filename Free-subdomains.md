@@ -36,8 +36,9 @@
 - freebusinessapps.net
 - freeonlineapps.net
 - freefinancetools.net
-- blogspot.com
-- wordpress.com
+- blogspot.com => blogging
+- blogger.com => blogging
+- wordpress.com => blogging
 - hashnode.com
 - substack.com => blogging
 - wixsite.com => wix.com hosting
