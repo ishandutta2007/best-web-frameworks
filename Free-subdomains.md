@@ -23,6 +23,7 @@
 - 000webhostapp.com
 - byethost.com
 - x10hosting.com
+- infinityfreeapp.com
 
 
 ## NON Flexible FREE subdomains:
